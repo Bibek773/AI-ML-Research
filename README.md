@@ -13,6 +13,8 @@ AI MI RESEARCH INTERN/
 │   ├── RockScissorPaper.py
 ├── Python Intermediate
 │   ├── intermediate.ipynb
+│   ├── OopInPython.py
+│   ├── bankwithoop.py
 ├── README.md
 
 ```
